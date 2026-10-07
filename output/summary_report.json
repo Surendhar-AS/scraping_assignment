@@ -1,0 +1,17 @@
+{
+    "execution_time_seconds": 127.85,
+    "records_collected": {
+        "Books to Scrape": 1000,
+        "Quotes to Scrape": 100,
+        "total": 1100
+    },
+    "records_after_cleaning": 1100,
+    "records_rejected": 0,
+    "duplicates_detected": 1,
+    "final_record_count": 1099,
+    "output_files": {
+        "dataset": "output\\final_dataset.csv",
+        "summary": "output\\summary_report.json",
+        "log": "logs\\scraper.log"
+    }
+}

@@ -1,0 +1,168 @@
+2026-10-07 09:22:46,439 | INFO | ===================================
+2026-10-07 09:22:46,439 | INFO | Scraping pipeline started
+2026-10-07 09:22:46,440 | INFO | ===================================
+2026-10-07 09:22:46,440 | INFO | Starting Books to Scrape...
+2026-10-07 09:22:46,440 | INFO | Scraping: https://books.toscrape.com/
+2026-10-07 09:22:48,433 | INFO | Scraping: https://books.toscrape.com/catalogue/page-2.html
+2026-10-07 09:22:50,232 | INFO | Scraping: https://books.toscrape.com/catalogue/page-3.html
+2026-10-07 09:22:51,980 | INFO | Scraping: https://books.toscrape.com/catalogue/page-4.html
+2026-10-07 09:22:53,775 | INFO | Scraping: https://books.toscrape.com/catalogue/page-5.html
+2026-10-07 09:22:55,569 | INFO | Scraping: https://books.toscrape.com/catalogue/page-6.html
+2026-10-07 09:22:57,373 | INFO | Scraping: https://books.toscrape.com/catalogue/page-7.html
+2026-10-07 09:22:59,209 | INFO | Scraping: https://books.toscrape.com/catalogue/page-8.html
+2026-10-07 09:23:00,932 | INFO | Scraping: https://books.toscrape.com/catalogue/page-9.html
+2026-10-07 09:23:02,710 | INFO | Scraping: https://books.toscrape.com/catalogue/page-10.html
+2026-10-07 09:23:04,432 | INFO | Scraping: https://books.toscrape.com/catalogue/page-11.html
+2026-10-07 09:23:06,192 | INFO | Scraping: https://books.toscrape.com/catalogue/page-12.html
+2026-10-07 09:23:07,946 | INFO | Scraping: https://books.toscrape.com/catalogue/page-13.html
+2026-10-07 09:23:09,665 | INFO | Scraping: https://books.toscrape.com/catalogue/page-14.html
+2026-10-07 09:23:11,414 | INFO | Scraping: https://books.toscrape.com/catalogue/page-15.html
+2026-10-07 09:23:13,233 | INFO | Scraping: https://books.toscrape.com/catalogue/page-16.html
+2026-10-07 09:23:15,044 | INFO | Scraping: https://books.toscrape.com/catalogue/page-17.html
+2026-10-07 09:23:16,918 | INFO | Scraping: https://books.toscrape.com/catalogue/page-18.html
+2026-10-07 09:23:18,648 | INFO | Scraping: https://books.toscrape.com/catalogue/page-19.html
+2026-10-07 09:23:20,433 | INFO | Scraping: https://books.toscrape.com/catalogue/page-20.html
+2026-10-07 09:23:22,801 | INFO | Scraping: https://books.toscrape.com/catalogue/page-21.html
+2026-10-07 09:23:25,176 | INFO | Scraping: https://books.toscrape.com/catalogue/page-22.html
+2026-10-07 09:23:27,519 | INFO | Scraping: https://books.toscrape.com/catalogue/page-23.html
+2026-10-07 09:23:29,846 | INFO | Scraping: https://books.toscrape.com/catalogue/page-24.html
+2026-10-07 09:23:32,206 | INFO | Scraping: https://books.toscrape.com/catalogue/page-25.html
+2026-10-07 09:23:34,556 | INFO | Scraping: https://books.toscrape.com/catalogue/page-26.html
+2026-10-07 09:23:36,801 | INFO | Scraping: https://books.toscrape.com/catalogue/page-27.html
+2026-10-07 09:23:39,257 | INFO | Scraping: https://books.toscrape.com/catalogue/page-28.html
+2026-10-07 09:23:41,622 | INFO | Scraping: https://books.toscrape.com/catalogue/page-29.html
+2026-10-07 09:23:44,016 | INFO | Scraping: https://books.toscrape.com/catalogue/page-30.html
+2026-10-07 09:23:46,418 | INFO | Scraping: https://books.toscrape.com/catalogue/page-31.html
+2026-10-07 09:23:48,330 | INFO | Scraping: https://books.toscrape.com/catalogue/page-32.html
+2026-10-07 09:23:50,080 | INFO | Scraping: https://books.toscrape.com/catalogue/page-33.html
+2026-10-07 09:23:51,829 | INFO | Scraping: https://books.toscrape.com/catalogue/page-34.html
+2026-10-07 09:23:53,575 | INFO | Scraping: https://books.toscrape.com/catalogue/page-35.html
+2026-10-07 09:23:55,348 | INFO | Scraping: https://books.toscrape.com/catalogue/page-36.html
+2026-10-07 09:23:57,136 | INFO | Scraping: https://books.toscrape.com/catalogue/page-37.html
+2026-10-07 09:23:58,887 | INFO | Scraping: https://books.toscrape.com/catalogue/page-38.html
+2026-10-07 09:24:00,737 | INFO | Scraping: https://books.toscrape.com/catalogue/page-39.html
+2026-10-07 09:24:02,705 | INFO | Scraping: https://books.toscrape.com/catalogue/page-40.html
+2026-10-07 09:24:04,617 | INFO | Scraping: https://books.toscrape.com/catalogue/page-41.html
+2026-10-07 09:24:06,463 | INFO | Scraping: https://books.toscrape.com/catalogue/page-42.html
+2026-10-07 09:24:08,208 | INFO | Scraping: https://books.toscrape.com/catalogue/page-43.html
+2026-10-07 09:24:09,975 | INFO | Scraping: https://books.toscrape.com/catalogue/page-44.html
+2026-10-07 09:24:11,731 | INFO | Scraping: https://books.toscrape.com/catalogue/page-45.html
+2026-10-07 09:24:13,573 | INFO | Scraping: https://books.toscrape.com/catalogue/page-46.html
+2026-10-07 09:24:15,393 | INFO | Scraping: https://books.toscrape.com/catalogue/page-47.html
+2026-10-07 09:24:17,163 | INFO | Scraping: https://books.toscrape.com/catalogue/page-48.html
+2026-10-07 09:24:18,933 | INFO | Scraping: https://books.toscrape.com/catalogue/page-49.html
+2026-10-07 09:24:20,721 | INFO | Scraping: https://books.toscrape.com/catalogue/page-50.html
+2026-10-07 09:24:22,476 | INFO | Books scraped successfully: 1000
+2026-10-07 09:24:22,479 | INFO | Books records collected: 1000
+2026-10-07 09:24:22,479 | INFO | Starting Quotes to Scrape...
+2026-10-07 09:24:22,479 | INFO | Scraping: https://quotes.toscrape.com/
+2026-10-07 09:24:24,001 | INFO | Scraping: https://quotes.toscrape.com/page/2/
+2026-10-07 09:24:25,721 | INFO | Scraping: https://quotes.toscrape.com/page/3/
+2026-10-07 09:24:27,326 | INFO | Scraping: https://quotes.toscrape.com/page/4/
+2026-10-07 09:24:28,835 | INFO | Scraping: https://quotes.toscrape.com/page/5/
+2026-10-07 09:24:30,402 | INFO | Scraping: https://quotes.toscrape.com/page/6/
+2026-10-07 09:24:31,860 | INFO | Scraping: https://quotes.toscrape.com/page/7/
+2026-10-07 09:24:33,451 | INFO | Scraping: https://quotes.toscrape.com/page/8/
+2026-10-07 09:24:34,924 | INFO | Scraping: https://quotes.toscrape.com/page/9/
+2026-10-07 09:24:36,370 | INFO | Scraping: https://quotes.toscrape.com/page/10/
+2026-10-07 09:24:37,864 | INFO | Quotes scraped successfully: 100
+2026-10-07 09:24:37,866 | INFO | Quotes records collected: 100
+2026-10-07 09:24:37,867 | INFO | Total raw records: 1100
+2026-10-07 09:24:37,867 | INFO | Cleaning records...
+2026-10-07 09:24:37,891 | INFO | Records after cleaning: 1100
+2026-10-07 09:24:37,892 | INFO | Validating records...
+2026-10-07 09:24:37,901 | INFO | Valid records: 1100
+2026-10-07 09:24:37,902 | INFO | Rejected records: 0
+2026-10-07 09:24:37,902 | INFO | Checking for duplicates...
+2026-10-07 09:24:37,912 | INFO | Duplicate records: 1
+2026-10-07 09:24:37,913 | INFO | Final unique records: 1099
+2026-10-07 09:24:37,954 | INFO | Final dataset saved to output\final_dataset.csv
+2026-10-07 09:24:37,956 | INFO | Summary report saved to output\summary_report.json
+2026-10-07 09:24:37,957 | INFO | ===================================
+2026-10-07 09:24:37,958 | INFO | Scraping pipeline completed
+2026-10-07 09:24:37,958 | INFO | Execution time: 111.52 seconds
+2026-10-07 09:24:37,959 | INFO | ===================================
+2026-10-07 09:40:26,622 | INFO | ***********************************
+2026-10-07 09:40:26,622 | INFO | Scraping pipeline started
+2026-10-07 09:40:26,622 | INFO | ***********************************
+2026-10-07 09:40:26,622 | INFO | Starting Books to Scrape...
+2026-10-07 09:40:26,623 | INFO | Scraping: https://books.toscrape.com/
+2026-10-07 09:40:28,472 | INFO | Scraping: https://books.toscrape.com/catalogue/page-2.html
+2026-10-07 09:40:30,223 | INFO | Scraping: https://books.toscrape.com/catalogue/page-3.html
+2026-10-07 09:40:31,982 | INFO | Scraping: https://books.toscrape.com/catalogue/page-4.html
+2026-10-07 09:40:33,777 | INFO | Scraping: https://books.toscrape.com/catalogue/page-5.html
+2026-10-07 09:40:35,589 | INFO | Scraping: https://books.toscrape.com/catalogue/page-6.html
+2026-10-07 09:40:37,328 | INFO | Scraping: https://books.toscrape.com/catalogue/page-7.html
+2026-10-07 09:40:39,093 | INFO | Scraping: https://books.toscrape.com/catalogue/page-8.html
+2026-10-07 09:40:40,853 | INFO | Scraping: https://books.toscrape.com/catalogue/page-9.html
+2026-10-07 09:40:42,602 | INFO | Scraping: https://books.toscrape.com/catalogue/page-10.html
+2026-10-07 09:40:44,376 | INFO | Scraping: https://books.toscrape.com/catalogue/page-11.html
+2026-10-07 09:40:46,153 | INFO | Scraping: https://books.toscrape.com/catalogue/page-12.html
+2026-10-07 09:40:47,915 | INFO | Scraping: https://books.toscrape.com/catalogue/page-13.html
+2026-10-07 09:40:49,720 | INFO | Scraping: https://books.toscrape.com/catalogue/page-14.html
+2026-10-07 09:40:51,728 | INFO | Scraping: https://books.toscrape.com/catalogue/page-15.html
+2026-10-07 09:40:53,542 | INFO | Scraping: https://books.toscrape.com/catalogue/page-16.html
+2026-10-07 09:40:55,721 | INFO | Scraping: https://books.toscrape.com/catalogue/page-17.html
+2026-10-07 09:40:57,763 | INFO | Scraping: https://books.toscrape.com/catalogue/page-18.html
+2026-10-07 09:40:59,835 | INFO | Scraping: https://books.toscrape.com/catalogue/page-19.html
+2026-10-07 09:41:02,130 | INFO | Scraping: https://books.toscrape.com/catalogue/page-20.html
+2026-10-07 09:41:04,635 | INFO | Scraping: https://books.toscrape.com/catalogue/page-21.html
+2026-10-07 09:41:06,912 | INFO | Scraping: https://books.toscrape.com/catalogue/page-22.html
+2026-10-07 09:41:09,226 | INFO | Scraping: https://books.toscrape.com/catalogue/page-23.html
+2026-10-07 09:41:11,629 | INFO | Scraping: https://books.toscrape.com/catalogue/page-24.html
+2026-10-07 09:41:13,904 | INFO | Scraping: https://books.toscrape.com/catalogue/page-25.html
+2026-10-07 09:41:16,324 | INFO | Scraping: https://books.toscrape.com/catalogue/page-26.html
+2026-10-07 09:41:18,739 | INFO | Scraping: https://books.toscrape.com/catalogue/page-27.html
+2026-10-07 09:41:21,093 | INFO | Scraping: https://books.toscrape.com/catalogue/page-28.html
+2026-10-07 09:41:23,592 | INFO | Scraping: https://books.toscrape.com/catalogue/page-29.html
+2026-10-07 09:41:26,055 | INFO | Scraping: https://books.toscrape.com/catalogue/page-30.html
+2026-10-07 09:41:28,491 | INFO | Scraping: https://books.toscrape.com/catalogue/page-31.html
+2026-10-07 09:41:30,893 | INFO | Scraping: https://books.toscrape.com/catalogue/page-32.html
+2026-10-07 09:41:33,412 | INFO | Scraping: https://books.toscrape.com/catalogue/page-33.html
+2026-10-07 09:41:35,671 | INFO | Scraping: https://books.toscrape.com/catalogue/page-34.html
+2026-10-07 09:41:37,741 | INFO | Scraping: https://books.toscrape.com/catalogue/page-35.html
+2026-10-07 09:41:40,310 | INFO | Scraping: https://books.toscrape.com/catalogue/page-36.html
+2026-10-07 09:41:42,670 | INFO | Scraping: https://books.toscrape.com/catalogue/page-37.html
+2026-10-07 09:41:45,090 | INFO | Scraping: https://books.toscrape.com/catalogue/page-38.html
+2026-10-07 09:41:47,592 | INFO | Scraping: https://books.toscrape.com/catalogue/page-39.html
+2026-10-07 09:41:49,977 | INFO | Scraping: https://books.toscrape.com/catalogue/page-40.html
+2026-10-07 09:41:52,436 | INFO | Scraping: https://books.toscrape.com/catalogue/page-41.html
+2026-10-07 09:41:54,780 | INFO | Scraping: https://books.toscrape.com/catalogue/page-42.html
+2026-10-07 09:41:56,862 | INFO | Scraping: https://books.toscrape.com/catalogue/page-43.html
+2026-10-07 09:41:59,314 | INFO | Scraping: https://books.toscrape.com/catalogue/page-44.html
+2026-10-07 09:42:01,731 | INFO | Scraping: https://books.toscrape.com/catalogue/page-45.html
+2026-10-07 09:42:04,204 | INFO | Scraping: https://books.toscrape.com/catalogue/page-46.html
+2026-10-07 09:42:06,613 | INFO | Scraping: https://books.toscrape.com/catalogue/page-47.html
+2026-10-07 09:42:09,013 | INFO | Scraping: https://books.toscrape.com/catalogue/page-48.html
+2026-10-07 09:42:11,408 | INFO | Scraping: https://books.toscrape.com/catalogue/page-49.html
+2026-10-07 09:42:13,814 | INFO | Scraping: https://books.toscrape.com/catalogue/page-50.html
+2026-10-07 09:42:16,200 | INFO | Books scraped successfully: 1000
+2026-10-07 09:42:16,204 | INFO | Books records collected: 1000
+2026-10-07 09:42:16,204 | INFO | Starting Quotes to Scrape...
+2026-10-07 09:42:16,205 | INFO | Scraping: https://quotes.toscrape.com/
+2026-10-07 09:42:18,458 | INFO | Scraping: https://quotes.toscrape.com/page/2/
+2026-10-07 09:42:20,614 | INFO | Scraping: https://quotes.toscrape.com/page/3/
+2026-10-07 09:42:22,737 | INFO | Scraping: https://quotes.toscrape.com/page/4/
+2026-10-07 09:42:24,771 | INFO | Scraping: https://quotes.toscrape.com/page/5/
+2026-10-07 09:42:26,928 | INFO | Scraping: https://quotes.toscrape.com/page/6/
+2026-10-07 09:42:28,400 | INFO | Scraping: https://quotes.toscrape.com/page/7/
+2026-10-07 09:42:29,943 | INFO | Scraping: https://quotes.toscrape.com/page/8/
+2026-10-07 09:42:31,456 | INFO | Scraping: https://quotes.toscrape.com/page/9/
+2026-10-07 09:42:32,908 | INFO | Scraping: https://quotes.toscrape.com/page/10/
+2026-10-07 09:42:34,404 | INFO | Quotes scraped successfully: 100
+2026-10-07 09:42:34,406 | INFO | Quotes records collected: 100
+2026-10-07 09:42:34,407 | INFO | Total raw records: 1100
+2026-10-07 09:42:34,408 | INFO | Cleaning records...
+2026-10-07 09:42:34,430 | INFO | Records after cleaning: 1100
+2026-10-07 09:42:34,430 | INFO | Validating records...
+2026-10-07 09:42:34,439 | INFO | Valid records: 1100
+2026-10-07 09:42:34,440 | INFO | Rejected records: 0
+2026-10-07 09:42:34,440 | INFO | Checking for duplicates...
+2026-10-07 09:42:34,448 | INFO | Duplicate records: 1
+2026-10-07 09:42:34,448 | INFO | Final unique records: 1099
+2026-10-07 09:42:34,470 | INFO | Final dataset saved to output\final_dataset.csv
+2026-10-07 09:42:34,471 | INFO | Summary report saved to output\summary_report.json
+2026-10-07 09:42:34,471 | INFO | ***********************************
+2026-10-07 09:42:34,472 | INFO | Scraping pipeline completed
+2026-10-07 09:42:34,472 | INFO | Execution time: 127.85 seconds
+2026-10-07 09:42:34,473 | INFO | ***********************************
